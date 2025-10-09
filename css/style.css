@@ -1,0 +1,40 @@
+body {
+    margin: 0px;
+}
+
+h1 {
+   display:flex;
+    justify-content: center;
+    color: rgb(209, 166, 35);
+    margin: 40px;
+}
+
+.about {
+    text-align: center;
+    padding: 20px;
+}
+
+p {
+    line-height: 1.7;
+    font-size: 22px;
+}
+
+h2 {
+    color: rgb(202, 151, 1);
+    font-size: 27px;
+}
+
+.contact p {
+    line-height: 1.4;
+}
+
+.contact>h2 {
+    color: black
+}
+
+.contact {
+    background-color: rgb(243, 234, 210);
+    color: blue;
+    text-align: center;
+    padding: 2px;
+}
